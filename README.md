@@ -13,6 +13,10 @@ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/
 ```
 git clone git://github.com/cspiegl/SublimeText2-BuildSystems.git
 ```
+1. Give the bash scripts right to be ran
+```
+chmod 755 javacRun.sh ccRun.sh
+```
 1. Restart Sublime Text 2
 
 
