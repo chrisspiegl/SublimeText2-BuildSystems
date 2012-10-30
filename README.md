@@ -1,4 +1,4 @@
-†SublimeText2-BuildSystems
+SublimeText2-BuildSystems
 =========================
 
 * For the C++ build system, you need the Xcode Command Line Tools installed!
