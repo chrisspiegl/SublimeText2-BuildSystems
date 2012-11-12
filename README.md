@@ -13,6 +13,10 @@ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/
 ```
 git clone git://github.com/cspiegl/SublimeText2-BuildSystems.git
 ```
+1. Change Directory to the newly cloned repository
+```
+cd ./SublimeText2-BuildSystems
+```
 1. Give the bash scripts right to be ran
 ```
 chmod 755 javacRun.sh ccRun.sh
