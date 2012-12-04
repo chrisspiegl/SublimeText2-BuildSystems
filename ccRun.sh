@@ -4,7 +4,7 @@ echo "File that will be executed: $1/$3";
 echo "****************************************";
 cd "$1";
 
-echo "Compiling C++ sourcecode...";
+echo "Compiling C sourcecode...";
 /usr/bin/cc $2 -o $3;
 if [ $? == 0 ]; then { 
    echo "Running the compiled code...";
