@@ -1,0 +1,14 @@
+{
+	"cmd": ["$packages/User/BuildSystems/makeRun.sh", "${file_path}", "$file_base_name" ],
+	"file_regex": "^(...*?):([0-9]*):?([0-9]*)",
+	"working_dir": "${file_path}",
+	"selector": "",
+
+	"variants":
+	[
+		{
+			"name": "Clean",
+			"cmd": ["make", "clean"]
+		}
+	]
+}
