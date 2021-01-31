@@ -1,6 +1,14 @@
 SublimeText2-BuildSystems
 =========================
 
+![current status](https://img.shields.io/badge/current%20status-halted-red?style=flat-square)
+
+## Halted Project
+
+I lost motivation to work on this for now. The code is here if you want to take a look.
+
+## About
+
 Build systems for JavaC and CC (C/C++) for Mac OS X and Sublime Text 2. A blog post about this repository is at [my site](http://cspiegl.com/2012/10/30/st2-build-systems).
 
 
